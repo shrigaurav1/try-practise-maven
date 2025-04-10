@@ -1,1 +1,3 @@
-print("fork hello")
+def ppr():
+    print("fork hello")
+ppr()
